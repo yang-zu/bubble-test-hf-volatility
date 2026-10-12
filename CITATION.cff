@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Testing for explosive bubbles using high-frequency volatility (MATLAB)"
+authors:
+  - family-names: Boswijk
+    given-names: H. Peter
+  - family-names: Yu
+    given-names: Jun
+  - family-names: Zu
+    given-names: Yang
+preferred-citation:
+  type: article
+  title: "Testing for explosiveness in financial asset prices using high-frequency volatility"
+  authors:
+    - family-names: Boswijk
+      given-names: H. Peter
+    - family-names: Yu
+      given-names: Jun
+    - family-names: Zu
+      given-names: Yang
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2405.02087"
+  url: "https://arxiv.org/abs/2405.02087"
